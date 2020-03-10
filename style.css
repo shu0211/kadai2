@@ -1,0 +1,12 @@
+@charset "UTF-8";
+#square {
+    width: 256px;
+    height: 256px;
+    background: #FF0000;
+    }
+
+#blue {
+    width: 256px;
+    height: 256px;
+    background: #004EFF;
+    }   
